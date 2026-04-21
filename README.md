@@ -15,7 +15,7 @@
 
 > Building AI agents for security operations while researching how those same agents fail, drift, and get exploited. TVM by day, adversarial AI research by night.
 
-🔒 **Securin Centry** (enterprise) – TVM, AppSec, Dark Web OSINT, Threat Hunting, and CTI at production scale.
+🔒 TVM, AppSec, Dark Web OSINT, Threat Hunting, and CTI at production scale.
 
 ## Current Projects
 
