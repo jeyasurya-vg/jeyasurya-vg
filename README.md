@@ -1,6 +1,6 @@
 # Hi, I'm Jeyasurya 👋
 
-📍 **Chennai, India** | 🛡️ **OT/ICS Security Researcher** | 🤖 **Adversarial AI Agent Research**
+📍 **Chennai, India** | 🛡️ **Security Researcher at IIT Madras** | 🤖 **Adversarial AI Agent Research**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
@@ -37,23 +37,18 @@
 
 ### Legacy Work
 
-- 🛒 **AppStoreX Content** - Store guidelines, installation guide, ToS, privacy policy
-- 🗣️ **Customer Voice Analysis** - DistilBERT + Kafka + FAISS + Streamlit NLP concept
-- 📡 **Shodan Enrichment Scripts** - IP/hash/domain enrichment for TVM pipelines
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/YOUR_USERNAME)
+![GitHub Contribution Graph](https://ghchart.rshah.org/jeyasurya-vg)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ## What I'm Doing
 
 - **TVM at scale** - Weekly client readouts on ingested findings and threat advisory alerts on the Securin Centry platform
 - **Agent engineering** - Running LangGraph-based TVM automation with dual-mode LLM backends (Anthropic API + local Qwen3-30B-A3B via LM Studio)
 - **Lab work** - Proxmox VE cluster (Ryzen 5 3600 / 48GB / GTX 1650) plus Oracle Cloud and AWS ap-south-1 for research
-- **[Speaking](https://github.com/YOUR_USERNAME/speaking)** - DEF CON on ICS/OT security and IT/OT convergence
+- **[Speaking](https://github.com/jeyasurya-vg/speaking)** - DEF CON on ICS/OT security and IT/OT convergence
 - **Research writing** - Building thesis methodology and lab scenarios for adversarial agent behaviors
 
 ## Latest Blog Posts
@@ -63,19 +58,18 @@
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@YOUR_HANDLE-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/-Jeyasurya_VG-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_HANDLE)
-[![Blog](https://img.shields.io/badge/-jeyasurya.dev-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://YOUR_BLOG)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Booms Smart Ads](https://img.shields.io/badge/-Booms_Smart_Ads-000000?style=flat-square&logo=rocket&logoColor=white)](https://YOUR_COMPANY_URL)
+[![Twitter](https://img.shields.io/badge/-@x.com-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/JeyasuryaVG)
+[![LinkedIn](https://img.shields.io/badge/-Jeyasurya_VG-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vgjeyasurya/)
+[![Blog](https://img.shields.io/badge/-jeyasurya.dev-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://bigbeesec.com/blog)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeyasurya-vg)
+[![BigBeeSec](https://img.shields.io/badge/-BigBeeSec-000000?style=flat-square&logo=rocket&logoColor=white)](https://bigbeesec.com/)
 
 ---
 
 ### Recognition
 
-- **Invited speaker at DEF CON** – ICS/OT security and IT/OT convergence
-- Enterprise TVM practitioner on the Securin Centry platform
-- Founder of **Booms Smart Ads** – building toward AI-enabled cybersecurity SaaS
+- **Invited speaker at DEF CON Chennai Nov 2024** – ICS/OT security and IT/OT convergence
+- Threat and Vulnerability Management Engineer at Securin Inc.
 - Active researcher on adversarial AI agents (MS/PhD, 2.5 years)
 
 ### Certifications
