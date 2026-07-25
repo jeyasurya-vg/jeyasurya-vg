@@ -1,22 +1,14 @@
 # Jeyasurya VG
 
-Chennai, India — Security researcher working on threat & vulnerability management, OT/ICS security, and adversarial behavior in autonomous AI agents.
-
-Securin Centry (enterprise TVM) · MS by Research, IIT Madras · Founder, Pritsco / BigBeeSec
+Chennai, India — Security researcher working on adversarial behavior of autonomous AI agents.
 
 ---
 
 ## Projects
 
-**LangGraph TVM Agent** — Multi-source vulnerability management agent integrating Ivanti RBVM, Securin RBVM, Jira, ServiceNow, Slack, and Teams.
+**LangGraph TVM Agent** — Multi-source vulnerability management agent integrating Ivanti Neurons RBVM.
 
-**BigBeeSec CTI Platform** — Multi-agent dark web CTI platform with OT/ICS-aware triage, LangGraph orchestration, and STIX output to MISP/OpenCTI.
-
-**ScholarWatchdog** — Academic paper alert bot on SerpAPI, SQLite, Google Chat, and TogetherAI.
-
-**AutoResearchGenerator** — n8n workflow for automated academic paper drafting with LaTeX export.
-
-**OT/ICS Prioritization Decision Tree** — Vulnerability prioritization logic combining CVE, CISA KEV, ICSA IDs, and MITRE ATT&CK for ICS.
+**CTI Platform** — Multi-agent dark web CTI platform with OT/ICS-aware triage, LangGraph orchestration, and STIX output to MISP/OpenCTI.
 
 ---
 
@@ -30,12 +22,6 @@ Thesis in progress on adversarial behavior in autonomous AI agents, validated th
 
 Python · Bash · LangGraph · n8n · FastAPI · Postgres · Splunk · Wazuh · Suricata · Shodan · Proxmox VE
 
----
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/jeyasurya-vg)
-
----
-
 ## Connect
 
-[Twitter](https://x.com/JeyasuryaVG) · [LinkedIn](https://www.linkedin.com/in/vgjeyasurya/) · [Blog](https://bigbeesec.com/blog) · [BigBeeSec](https://bigbeesec.com/)
+[Twitter](https://x.com/JeyasuryaVG) · [LinkedIn](https://www.linkedin.com/in/vgjeyasurya/) · [mail](vgjeyasurya@gmail.com)
