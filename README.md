@@ -4,4 +4,4 @@ Chennai, India | Security researcher working on adversarial behavior of autonomo
 
 ## Connect
 
-[Twitter](https://x.com/JeyasuryaVG) · [LinkedIn](https://www.linkedin.com/in/vgjeyasurya/) · [mail](vgjeyasurya@gmail.com)
+[Twitter](https://x.com/JeyasuryaVG) · [LinkedIn](https://www.linkedin.com/in/vgjeyasurya/) · [mail](jeyasuryavg@gmail.com)
