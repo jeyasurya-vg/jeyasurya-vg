@@ -1,10 +1,6 @@
 # Jeyasurya VG
 
-Chennai, India — Security researcher working on adversarial behavior of autonomous AI agents.
-
-## Research
-
-Thesis in progress on adversarial behavior in autonomous AI agents, validated through a Delphi study and scenario-based lab work, mapped against MITRE ATLAS, NIST AI RMF, and OWASP LLM Top 10.
+Chennai, India | Security researcher working on adversarial behavior of autonomous AI agents.
 
 ## Connect
 
